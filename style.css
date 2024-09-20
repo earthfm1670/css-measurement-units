@@ -1,1 +1,29 @@
-/* Start coding here */
+* {
+  background-color: lightgrey;
+  padding: 50px;
+}
+
+.container {
+  height: 90vh;
+}
+
+.box-1,
+.box-2,
+.box-3 {
+  padding: 0;
+}
+
+.box-1 {
+  height: 25%;
+  background-color: khaki;
+}
+
+.box-2 {
+  height: 25%;
+  background-color: orange;
+}
+
+.box-3 {
+  height: 50%;
+  background-color: cornflowerblue;
+}
